@@ -1,4 +1,3 @@
 hello world
-test A 
 you are silly b
 
